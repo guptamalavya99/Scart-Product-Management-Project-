@@ -1,0 +1,11 @@
+Problem Statement 
+
+Users lack quick nutrition visibility at checkout, leading to impulsive purchases and poor food decisions.
+
+India’s grocery delivery apps such as Blinkit, Zepto, Swiggy Instamart, and BigBasket are built for speed, convenience, and instant purchase gratification. Users typically spend less than 20–30 seconds reviewing their cart before checkout, and two-thirds of Indian households already consume less protein than recommended despite having access to healthier options. However, nutrition visibility on these apps remains buried within individual product pages, far away from the point where real purchasing decisions are made.
+
+Because of this design, users shop extremely fast, rarely open product pages, and often buy impulsively — especially snacks, sweets, beverages, bakery items, and ready-to-eat foods. Nutrition information requires 3–4 extra clicks, creating friction, and users are not able to compare calories, sugar, protein, or fat across products. The checkout experience prioritizes convenience, not awareness, and switching screens feels annoying and time-consuming.
+
+This leads to poor decision-making driven by hyper-convenience bias, impulse buying, and instant gratification. Different user segments are affected in different ways — busy professionals make unhealthy late-night orders, fitness-focused users cannot validate macros, and parents unintentionally purchase unhealthy items for children.
+
+Overall, users lack transparent nutrition insight at the exact moment of decision, causing unhealthy purchases, regret, lower trust, and reduced satisfaction. For businesses, this represents a missed opportunity to differentiate, promote healthier alternatives, and improve long-term customer loyalty.
